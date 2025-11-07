@@ -338,7 +338,7 @@ env GOOS=linux GOARCH=amd64 go build main.go
 ## 系统截图
 [数据统计]![数据统计](https://github.com/sunwenbo/smart-api/blob/main/static/image/statistics.png)
 
-[工单申请]![工单申请](https://github.com/sunwenbo/smart-api/blob/main/static/image/orderApply.png)
+[工单申请]![工单申请](https://github.com/sunwenbo/smart-api/blob/main/static/image/orderApply-v2.png)
 
 [自定义流程]![自定义流程](https://github.com/sunwenbo/smart-api/blob/main/static/image/customflow.png)
 

@@ -300,7 +300,7 @@ kubectl get ingress -n sre
 ## System Screenshots
 [Data Statistics]![Data Statistics](https://github.com/sunwenbo/smart-api/blob/main/static/image/statistics.png)
 
-[Work Order Application]![Work Order Application](https://github.com/sunwenbo/smart-api/blob/main/static/image/orderApply.png)
+[Work Order Application]![Work Order Application](https://github.com/sunwenbo/smart-api/blob/main/static/image/orderApply-v2.png)
 
 [Custom Process]![Custom Process](https://github.com/sunwenbo/smart-api/blob/main/static/image/customflow.png)
 
